@@ -69,7 +69,6 @@ const concesionaria = {
   },
 };
 
-//console.log(concesionaria.autosNuevos());
 console.log(
   concesionaria.puedeComprar(concesionaria.autos[0], concesionaria.personas[0])
 );
